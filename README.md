@@ -1,30 +1,42 @@
 # Hi, I'm Olga Potapova 👋
 
-I'm an automation enthusiast and workflow developer specializing in **n8n**. I create intelligent workflows for YouTube data analysis, real estate bots, customer sentiment analysis, CV processing, and sales funnels.
+**Automation engineer** building tools with **Playwright**, **n8n**, **Python**, and **Node.js** — from browser automation and scraping to AI-powered dashboards and low-code workflows.
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/olga-potapova-585478354).
-
----
-
-## 🚀 Featured n8n Workflows
-
-| Project | Description | GitHub Repo |
-|---------|-------------|-------------|
-| **YouTube Summary Workflow** | Automatically fetches YouTube videos, analyzes content, and generates structured summaries with AI. | [n8n_youtube_summary](https://github.com/OlgaPotapova684/n8n_youtube_summary) |
-| **Real Estate Sale Bot** | Telegram bot that helps users query real estate listings and prices with AI assistance. | [salebot_real_estate_bot](https://github.com/OlgaPotapova684/salebot_real_estate_bot) |
-| **Customer Sentiment Analysis** | Analyzes customer reviews from Google Sheets and classifies sentiment using AI/JS rules. | [n8n_customer_sentiment](https://github.com/OlgaPotapova684/n8n_customer_sentimen...) |
-| **CV Analysis Workflow** | Processes resumes from Google Sheets, evaluates candidates against job requirements, and generates scoring & invitation messages. | [n8n_cv_analysis](https://github.com/OlgaPotapova684/n8n_cv_analysis) |
-| **Sales Funnel Automation** | Automates sales pipeline tracking and lead management in n8n (details in repo). | [n8n_sales_funnel](https://github.com/OlgaPotapova684/n8n_sales_funnel) |
+📍 Podgorica, Montenegro · [LinkedIn](https://www.linkedin.com/in/olga-potapova-585478354)
 
 ---
 
-## 📂 Portfolio Highlights
-- Automated AI-driven data processing and analysis workflows.
-- Integration with Google Sheets, Telegram, YouTube, and AI APIs.
-- Custom JavaScript and AI logic for sentiment, scoring, and content analysis.
-- Workflow design optimized for batch processing and structured outputs.
+## ⭐ Featured projects
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**directory-agent**](https://github.com/OlgaPotapova684/directory-agent) | Playwright, Express, SQLite, Docker | Web agent for directory registration: scrape company sites, queue catalog tasks, simulated email verification, CSV export. Deployed on Render. |
+| [**saleforce**](https://github.com/OlgaPotapova684/saleforce) | Python, Streamlit, ML | AI lead scoring with historical win/loss analysis, segmentation, logistic regression, LLM explanations. |
+| [**homeora-marketplace**](https://github.com/OlgaPotapova684/homeora-marketplace) | Next.js, TypeScript | Marketplace for home & lifestyle goods. |
+| [**ai-business-intelligence-tool**](https://github.com/OlgaPotapova684/ai-business-intelligence-tool) | Python, Hugging Face | Summarize text, sentiment analysis, and topic tagging via Inference API. |
+| [**youtube-content-shorts-factory**](https://github.com/OlgaPotapova684/youtube-content-shorts-factory) | Python | Generate scripts & images from YAML and build vertical Shorts-style videos. |
+| [**idealista-apartment-search**](https://github.com/OlgaPotapova684/idealista-apartment-search) | Python | Scraping + ranking pipeline for apartment search on Idealista. |
 
 ---
 
-## 🔗 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/olga-potapova-585478354)
+## 🛠 Tech stack
+
+`Playwright` · `n8n` · `Node.js` · `Python` · `Streamlit` · `Next.js` · `SQLite` · `Docker` · `AI / LLM APIs`
+
+---
+
+## 🔗 n8n workflows
+
+Earlier automation work — customer sentiment, CV screening, YouTube summaries, sales funnels, real-estate bots:
+
+[n8n_customer_sentiment_analysis](https://github.com/OlgaPotapova684/n8n_customer_sentiment_analysis) ·
+[n8n_cv_analysis](https://github.com/OlgaPotapova684/n8n_cv_analysis) ·
+[n8n_youtube_summary](https://github.com/OlgaPotapova684/n8n_youtube_summary) ·
+[n8n_sales_funnel](https://github.com/OlgaPotapova684/n8n_sales_funnel) ·
+[salebot_real_estate_bot](https://github.com/OlgaPotapova684/salebot_real_estate_bot)
+
+---
+
+## 📊 GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaPotapova684&show_icons=true&theme=default&hide_border=true)
